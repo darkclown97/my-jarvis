@@ -2,8 +2,8 @@
 Your own jarvis
 
 ## Prerequisites
-- OPENAI API Key, Generate one [here](https://beta.openai.com/account/api-keys)
-- Install python from [here](https://www.python.org/downloads/)
+- OPENAI API Key, Generate one [here](https://beta.openai.com/account/api-keys){:target="_blank"}
+- Install python from [here](https://www.python.org/downloads/){:target="_blank"}
 
 ## Manual Installation
   - Clone the repo
