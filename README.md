@@ -25,6 +25,7 @@ Your own jarvis
   - Open Fig & navigate to the plugin store
   - Search & Install `My Jarvis`
   - In the Configuration tab, provide the values for `OPENAI_API_KEY`
+    - [Mac users] Want jarvis to read out response? Toggle `MAKE JARVIS SPEAK [Works only on MacOS currently]`
   - In terminal, run 
     ```
     fig source
