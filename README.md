@@ -4,9 +4,14 @@ Your own jarvis
 ## Prerequisites
 - OPENAI API Key, Generate one [here](https://beta.openai.com/account/api-keys)
 - Install python from [here](https://www.python.org/downloads/)
+- Install pip from [here](https://pip.pypa.io/en/stable/installation/)
 
 ## Manual Installation
   - Clone the repo
+  - In terminal, run 
+    ```
+    pip install openai
+    ```
   - Paste the following in `~/.zshrc` or `~/.bashrc`
     ```
     export OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
